@@ -13,6 +13,7 @@ First, the word is broken into it's meaningful parts, also called morphemes. In 
 
 ```
 # proto_dictionary.txt
+
 cyut    CUTE    adorable, small
 -er     MORE    modifies the root to mean more by comparison
  
@@ -40,6 +41,7 @@ In lexicon this change can be represented as:
 
 ```
 # rules.txt
+
 (VOW)(*t)(VOW)(*r)  p[1]["voicing"] = True
 ```
 
@@ -56,16 +58,17 @@ Rules are often used to simulate time. 15-20 rules can be applied on top of each
 
 In a constructed language, there may be unusual sounds, or need to distinguish between sounds that are ambiguous in english. This is where Lexicon's phonology system is used.
 
-To deal with this Lexicon has a Phoneme class that contains the information necessary to produce a sound. Rather than storing the letter "t", it stores "unvoiced dental plosive", which is linguistic speak for releasing pressure built up by placing the tongue on the teeth.
+To deal with this Lexicon has a Phoneme class that contains the information necessary to produce a sound. Rather than storing the letter "t", it stores "voicelss alveolar plosive", which is linguistic speak for releasing pressure built up by placing the tongue just behind the teeth.
 
 In doing so, sounds can be manipulated far more flexibly, which becomes very useful with Lexicon's rule system, and allows for complex linguistic structures to be a breeze to deal with.
 
-However, this system is great for developers and computers to deal with, but not particularly easy for an end user who has to type "unvoiced dental plosive" instead of "t". This is where romanization comes in 
+However, this system is great for developers and computers to deal with, but not particularly easy for an end user who has to type "voiceless alveolar plosive" instead of "t". This is where romanization comes in 
 
 When defining a language, a romanization is specified, which is a mapping from letters on the keyboard to specific sounds. This makes it much easier to read and write sounds.
 
 ```
 # romanization.txt
+
 a   a
 '   ʔ
 ```
@@ -91,6 +94,8 @@ Lexicon also includes the espeak TTS, which is a very robotic sounding, but flex
 Attributes.txt is a file that holds some additional info about the language, namely, the syllable structure and syllable stress. The format for this file is very rough, so I won't go into a huge amount of detail since it's one of the first things I'd like to fix.
  
 ```
+# attributes.txt
+
 SYLLABLE: (C)V(C)(C)
 PRIMARY_STRESS: l == 1 or i == l - 2
 SECONDARY_STRESS: i < l - 4 and i % 3 == 1
