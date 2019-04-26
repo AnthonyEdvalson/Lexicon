@@ -1,0 +1,13 @@
+﻿CONSONANTS	Bi­labial	Labio­dental	Dental		Alveolar	Post alveolar	Retroflex	Palatal		Velar		Uvular		Pharyngeal	Glottal
+Plosive.......	p	b	p̪	b̪			t	d			ʈ	ɖ	c	ɟ	k	g	q	ɢ	ʡ		ʔ		|
+Nasal.........		m		ɱ				n				ɳ		ɲ		ŋ		ɴ					|
+Trill.........		ʙ						r										ʀ	ʜ	ʢ			|
+Tap or Flap...		ⱱ̟		ⱱ				ɾ			ɽ̊	ɽ						ɢ̆		ʡ̆			|
+Fricative.....	ɸ	β	f	v	θ	ð	s	z	ʃ	ʒ	ʂ	ʐ	ç	ʝ	x	ɣ	χ	ʁ	ħ	ʕ	h	ɦ	|
+Lateral Fric..							ɬ	ɮ				ɭ˔		ʎ̝		ʟ̝							|
+Approximant...	ʍ	w	ʋ̥	ʋ				ɹ				ɻ		j		ɰ						ʔ̞	|
+Lateral Approx								l				ɭ		ʎ		ʟ		ʟ̠					|
+click.........	ʘ				ǀ		ǃ				‼		ǂ										|
+implosive.....		ɓ						ɗ						ʄ		ɠ		ʛ					|
+ejective......	pʼ						tʼ				ʈʼ		cʼ		kʼ		qʼ				ʡʼ		|
+affricate.....							t͡s	d͡z	t͡ʃ	d͡ʒ	ʈ͡ʂ	ɖ͡ʐ											|

@@ -1,0 +1,8 @@
+﻿VOWELS....	front		center		back		|
+close.....	i	y	ɨ	ʉ	ɯ	u	|
+near_close	ɪ	ʏ	ɨ̞	ʉ̞	ɯ̞	ʊ	|
+close_mid.	e	ø	ɘ	ɵ	ɤ	o	|
+mid.......	e̞	ø̞	ə		ɤ̞	o̞	|
+open_mid..	ɛ	œ	ɜ	ɞ	ʌ	ɔ	|
+near_open.	æ		ɐ				|
+open......	a	ɶ	ä	ɒ̈	ɑ	ɒ	|

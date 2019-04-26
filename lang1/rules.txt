@@ -1,0 +1,15 @@
+(*e)(*x)            p[0].rem()
+(*k)(*x)            p[1].rem()
+(VOW)(PLO)(PLO)     p[1].rem() ; p[0]["length"] = "long"
+(!VOW)(PLO)(PLO)    p[1].rem()
+
+(VOW)(VOW)          p[1].rem() ; p[0]["length"] = "long"
+(PLO)(NAS)          p[0].rem()
+(NAS)(*x)           p[0].rem()
+
+(FRONT)(VELAR !NASAL !PLO)       p[1]["place"] = "alveolar"
+(CLOSE)(*x)         p[1]["place"] = "alveolar" ; p[1]["manner"] = "plosive"
+(BACK OPEN_MID UNSTRESSED)     p[0]["height"] = "mid" ; p[0]["frontness"] = "central"
+(*ə START)          p[0].rem()
+(*ŋ)(*a)            p[1].rem()
+(NAS)(NAS)          p[0].rem() ; p[1]["place"] = "bilabial"

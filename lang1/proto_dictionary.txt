@@ -1,0 +1,242 @@
+# Useful word associations http://fiatlingua.org/wp-content/uploads/2014/08/fl-000024-00.pdf
+
+# BASE NOUNS, additional derivation is further down
+wota	    GOD		god
+hebe	    LANG	language
+bewo	    INFO	knowledge, information, truth
+tatu	    MANIF	book, writing, manifestation, implementation
+tato	    MAKE	to create, to write
+mokutam	    GUARD	guard, protector, keeper
+kidewo	    WISE	wise one, king
+hoka	    DARK	dark, shadow, secret, unknown
+man-	    CARRY	carrier, bringer, distributor
+kem		    POWER	power, force
+miwat       WATR    water, stream
+-kihamet    HOME    house (root, not used alone)
+kiham       FIRE    fire
+namit       MIST    mist
+memot       AIR     air
+manto       DIRT    dirt
+wedam       DUST    dust
+tobam       LAND    land, terrain, earth
+kuhota      CLOUD   cloud
+tabo        TREE    tree
+kika        SNOW    snow
+kibatu      SNOWNG  snowing, snow fall
+wikatu      ICE     ice
+tomat       SAY     to say, speak
+mimati      BREATH  breath, breathing, life force
+kona        RING    ring, band, small circular object
+motu        OPEN    open, release
+kuta        CLOSE   close, shut
+witan       SESAME  sesame seeds
+
+# PRONOUNS
+ket         I       I, me
+
+# QUESTIONS
+kato        WHAT    what, subject inquiry
+bam         WHY     why, purpose inquiry
+hem         WHERE   where, location inquiry
+bot         HOW     how, method inquiry
+tato        HOWMNY  how much, quantity inquiry
+hat         WHEN    when, time inquiry
+
+# ???
+ti'a        CAN     able to, has the ability to do
+wat         DO      do, did
+at          IS      is
+em		    IN		in, within
+
+# NEGATIONS
+kin         NO      delimination, no
+iko         NOT     not existing, isn't
+kino        NOTYET  anterior non-occurrence, not yet
+
+IS+NO               not occurring, didn't happen, didn't do
+NOT                 not equaling, not
+CAN+NO              not allowed, can't
+
+# CASES
+-na		NOM		nomainative case
+-me     ACC		accusative case
+-o      DAT		dative case
+-i      INS		instrumentive case
+
+
+# STANDARD VARATORS
+-       VERB    verbify, -ing
+-       ADJ     adjective relating to root
+ki-     PLACE   location containing root
+u-      ANIM    animal related to root
+ke-     COLL    collective or group of root
+ha-		PART	part or fragment of root
+e-mat   ABSTR   abstract idea related to root
+o-      BIG     big version of root
+i-      SMALL   small version of root
+
+# NONSTANDARD VARIATORS
+e-to    ETH     Ethereal or mystical version of root
+-met    COLOR   referring to the color of the root
+
+
+# AIR
+AIR+VERB        to blow, to fan, to create wind, (slang) to fart
+AIR+PLACE       sky
+AIR+ANIM        cloud
+AIR+ABSTR       current, constant movement of a fluid, water flow
+AIR+BIG         gust of wind
+AIR+SMALL       breeze
+AIR+ADJ         formless, shapeless, without a fixed appearance
+
+# BREATH: breath is closely related to life force
+BREATH+ABSTR    a living thing, specifically a living thing that can move
+BREATH+ETH      ghost, spirit
+
+# DARK: in the past, it described shadows, but over time has changed to mean secrets and the unknown
+DARK+VERB       to hide, to keep secret
+DARK+PLACE      safe, lockbox, any protected secret container
+DARK+PART       hint, clue, evidence
+DARK+BIG        a particularly large shadow
+DARK+SMALL      white lie
+DARK+COLOR      black
+
+# DIRT: words mixed with grass, stems from their belief that grass if a form of dirt
+DIRT+PLACE      field
+DIRT+ANIM       worm
+DIRT+PART       blade of grass
+DIRT+ABSTR      life, yin-yang, endless cycle of life and death
+DIRT+SMALL      sand
+
+# DUST:
+DUST+ANIM       dust thing
+
+# FIRE: closely related to the home, as the area is cold, houses are sometimes referred to as "fires"
+FIRE+VERB       to light a fire
+FIRE+VERB       spark, match, fire creating object
+FIRE+ANIM       dog, hound
+FIRE+BIG        bonfire
+FIRE+SMALL      flame
+FIRE+COLOR      red
+
+# FOREST
+TREE+PLACE+VERB     to gather, search
+TREE+PLACE+ANIM     bear
+TREE+PLACE+SMALL    grove, small tree cluster
+
+# GOD: words also relate to happiness and fulfillment
+GOD+VERB		transcend
+GOD+COLL        group of gods that work together, pantheon?
+GOD+ABSTR       elation, joy, happiness, purpose, fulfillment
+GOD+BIG         greater / global god
+GOD+SMALL       minor god
+GOD+ADJ         godlike, successful
+
+GUARD+VERB      to protect, to watch over, to observe
+GUARD+COLL      army
+GUARD+ABSTR     safety, security
+GUARD+BIG       general
+GUARD+ADJ       aggressive (negative)
+
+# HOME: as the region is pretty cold, home is also related to ash and fire
+HOME+VERB       to burn
+HOME+PLACE      home, hearth
+HOME+COLL       village, small community
+HOME+ABSTR      community
+HOME+SMALL      home fireplace
+HOME+ADJ        calm, stable
+
+# ICE:
+ICE+VERB        to slip, to stumble, to be injured due to lack of coordination
+ICE+PART        ice sheet, iceberg
+ICE+BIG         thick ice
+ICE+SMALL       thin ice
+ICE+ADJ         icy, slippery, difficult to traverse
+
+# INFO: information, intelligence, data, prudence, attainment, lore, report, cognition, MUST be nonphysical
+INFO+VERB       teach, tell stories
+INFO+PLACE      classroom, anywhere information is given verbally
+INFO+ANIM       human
+INFO+COLL       memory, knowledge
+INFO+SMALL      advice, warning
+INFO+ADJ        careful, thoughtful, planning
+INFO+MANIF		book of truth
+INFO+CARRY		messenger
+
+# LAND:
+LAND+PLACE      world, material plane
+LAND+ANIM       herd animals
+LAND+PART       island
+LAND+BIG        continent
+
+LANG+VERB       speak, talk
+LANG+PLACE      forum, conference, meeting area
+LANG+COLL       language family
+LANG+PART       dialect
+LANG+ABSTR      thought
+
+# MANIF: book, writing, manifestation, implementation, physical INFO
+MANIF+COLL		series
+MANIF+PART		page, section
+MANIF+VERB      write, register, describe
+MANIF+PLACE     library
+MANIF+BIG       encyclopedia
+MANIF+SMALL     abstract, preface, summary of larger work
+MANIF+ADJ       someone who spends a lot of time reading
+
+# MIST
+MIST+FIRE       steam
+MIST+CLOUD      fog, thick mist
+
+# POWER: power tends to have a negative meaning
+POWER+VERB      to enact your will through others
+POWER+PLACE     castle, seat of power, capital building
+POWER+PART      citizens, people
+POWER+SMALL     spark, impetus, nudge
+POWER+ADJ       like a tyrant or dictator
+
+# SAY:
+SAY+BIG         yell, shout
+SAY+SMALL       whisper
+
+# SNOW
+SNOW+PLACE      mountain tops
+SNOW+ANIM       monster, beast
+SNOW+PART       snowflake
+SNOW+ADJ        cold
+SNOW+COLOR      white
+
+# SNOWNG: snowing
+SNOWNG+BIG      blizzard
+SNOWNG+SMALL    flurry
+
+# TREE
+TREE+PLACE      forest, refers to entire forest not just trees
+TREE+ANIM       owl
+TREE+COLL       woods, forest but specifically relating to the trees
+TREE+PART       branch, limb, large branch
+TREE+BIG        large tree
+TREE+SMALL      little tree, sapling
+
+# WATR: water in the area is mostly from melting snow runoff, water vocab is limited, as it's abundant
+#       and isn't a topic of discussion often
+WATR+VERB       to melt, to dissolve
+WATR+PLACE      lake
+WATR+COLL       forested mountainside
+WATR+BIG        sea, bay, gulf
+WATR+BIG+BIG    ocean
+
+WISE+PLACE      monastery
+WISE+COLL       high council, group of leaders (united nations)
+WISE+ABSTR      wisdom, experience
+WISE+ADJ        well versed, experienced, thoughtful
+
+#+VERB
+#+PLACE
+#+ANIM
+#+COLL
+#+PART
+#+ABSTR
+#+BIG
+#+SMALL
+#+ADJ

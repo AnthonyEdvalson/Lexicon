@@ -1,0 +1,3 @@
+SYLLABLE: (C)V(C)(C)
+PRIMARY_STRESS: l == 1 or i == l - 2
+SECONDARY_STRESS: i < l - 4 and i % 3 == 1
